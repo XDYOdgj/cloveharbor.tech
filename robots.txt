@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cloveharbor.tech/sitemap.xml
